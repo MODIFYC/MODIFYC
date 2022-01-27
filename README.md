@@ -20,6 +20,6 @@
   <h3><b>💎 State 💎</b></h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=react)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=react)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=algolia)
 
 </div>
