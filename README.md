@@ -18,8 +18,13 @@
 
   #
   <h3><b>💎 Stats 💎</b></h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=nightowl" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=nightowl" />
+  </a>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=nightowl)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=nightowl)
   # 
 </div>
