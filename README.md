@@ -4,6 +4,7 @@
 <div align=center>
   <h1> HELLO! </h1>
   </br>
+  
   <h3><b>💎 Tech 💎</b></h3>
   </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -13,7 +14,11 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
   </br></br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-
+  </br></br>
 </div>
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=react)
 
