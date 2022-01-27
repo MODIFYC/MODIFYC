@@ -5,7 +5,7 @@
   <h1> HELLO! </h1>
   </br>
   
-  <h3><b>💎 Tech 💎</b></h3>
+  <h3><b>💎 Study 💎</b></h3>
   </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </br></br>
@@ -17,7 +17,7 @@
 
 
   #
-  <h3><b>💎 Study 💎</b></h3>
+  <h3><b>💎 Stats 💎</b></h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=nightowl)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=nightowl)
