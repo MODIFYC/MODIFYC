@@ -15,10 +15,11 @@
   </br></br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   </br></br>
-</div>
+
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=react)
 
+</div>
