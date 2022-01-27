@@ -19,7 +19,7 @@
   #
   <h3><b>💎 State 💎</b></h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=github_dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=algolia)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MODIFYC&show_icons=true&theme=nightowl)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MODIFYC&layout=compact&theme=nightowl)
 
 </div>
