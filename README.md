@@ -2,7 +2,7 @@
 
 <!--소개-->
 <div align=center>
-  <h1> HELLO! </h1>
+  <h1> HELLO! I'm 👆</h1>
   </br>
   
   <h3><b>💎 Learning 💎</b></h3>
