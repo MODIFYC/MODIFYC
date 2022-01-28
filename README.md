@@ -5,7 +5,7 @@
   <h1> HELLO! </h1>
   </br>
   
-  <h3><b>💎 Study 💎</b></h3>
+  <h3><b>💎 Learning 💎</b></h3>
   </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </br></br>
