@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HELLO&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=MODIFYC&fontSize=90)
 <!--SOO%20JUNG-->
 <!--소개-->
 <div align=center>
