@@ -2,7 +2,6 @@
 <!--SOO%20JUNG-->
 <!--소개-->
 <div align=center>
-  <h3>https://modifyc.github.io/</h3>
   </br>
   <h3><b>💎 Learning 💎</b></h3>
   </br>
