@@ -2,7 +2,7 @@
 <!--SOO%20JUNG-->
 <!--소개-->
 <div align=center>
-  </br>
+<!--  </br>
   <h3><b>💎 Learning 💎</b></h3>
   </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/node.js-569A31?style=flat-square&logo=node.js&logoColor=black"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   </br></br>
-
+-->
 
   #
   <h3><b>💎 Stats 💎</b></h3>
